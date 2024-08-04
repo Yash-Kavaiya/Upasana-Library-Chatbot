@@ -14,12 +14,12 @@ Website to Create Flow
 - Visio
 
 
-- Auth (Registor)
-- Issue Book -> Last date check ,
-- Return Book
-- Check Status book
-- Book avaiablity
-- Personalize book
+- Auth (Registor)  -----------> 
+- Issue Book -> Last date check ----------->
+- Return Book ------------->
+- Check Status book -------------->
+- Book avaiablity ------------->
+- Personalize book ---------->
 - Self help , fiction ,acadicms ,upsc ,biography,history (100-200 )
 
 Creating a Library Management Chatbot involves a structured business flow that includes various user interactions to facilitate library operations. Here is a detailed business flow for such a chatbot:
